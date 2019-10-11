@@ -4,7 +4,7 @@
 Animate.css - http://daneden.me/animate
 Licensed under the MIT license - http://opensource.org/licenses/MIT
 
-Copyright (c) 2015 Daniel Eden
+Copyright (c) 2015 Daniel Eden 
 */
 
 .animated {
@@ -100,7 +100,7 @@ Copyright (c) 2015 Daniel Eden
 }
 
 @-webkit-keyframes flash {
-  0%, 50%, 100% {
+  0%, 5%, 100% {
     opacity: 1;
   }
 
